@@ -3,7 +3,9 @@
 Predicts telecom customer churn using XGBoost, explains predictions with SHAP, 
 and monitors model health over time.
 
-[![Live Demo](https://customerchurn-hmxmnpk5q2jv4qixojzqcc.streamlit.app/)
+## Live Demo
+
+[Click here to view the Customer Churn Prediction App](https://customerchurn-hmxmnpk5q2jv4qixojzqcc.streamlit.app/)
 
 ---
 
